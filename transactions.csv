@@ -1,0 +1,9 @@
+User ID, Date, Type, Category, Amount, Description
+U001, 2025-04-16, Income, Salary, 1500, "Monthly salary"
+U001, 2025-04-17, Income, Debt cleared, 2000, "Ram's debt cleared"
+U002, 2025-04-17, Expense, Food, 1575, "Lunch with friend"
+U003, 2025-04-18, Expense, Transport, 250, "Cab fare to office"
+U004, 2025-04-19, Income, Freelance, 1200, "Logo design project"
+U005, 2025-04-20, Expense, Shopping, 800, "Bought shoes"
+U006, 2025-04-21, Income, Part-time, 950, "Tutoring session"
+U007, 2025-04-22, Expense, Entertainment, 450, "Movie and snacks"
